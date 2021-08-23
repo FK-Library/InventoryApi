@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7GMwS5PwYKi/gilyBUqgTgwCpK19fGQ7psMTxXVpZtFx19Payk2qB3AGl5nP+KHzVMf5jzokBV9Qgm2/rNfRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Price's\\Source\\Repos\\FK-Library\\InventoryApi\\ShopApi\\ShopApi\\InventoryApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Price's\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

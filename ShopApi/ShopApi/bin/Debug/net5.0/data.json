@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1001",
+    "name": "St John Ambulance Large Standard Workplace First Aid Kit",
+    "description": "Large first aid kit for the workplace\nConforms with British Standard BS 8599-1:2019\nFor a working environment for up to 100 people\nFully stocked with first aid supplies\nSupplied with wall bracket",
+    "price": "27.50",
+    "stockQuantity": 10
+  },
+  {
+    "id": "1002",
+    "name": "Box of 100 St John Ambulance Vinyl Powder-Free Gloves",
+    "description": "Ideal for low-risk, short term procedures\nSt John Ambulance branded \nPowder-free\nAmbidextrous\nLatex-free.",
+    "price": "8.80",
+    "stockQuantity": 5
+  },
+  {
+    "id": "1003",
+    "name": "Semi-Automatic Defibrillator",
+    "description": "Semi-automatic defibrillator (AED) for treatment of Sudden Cardiac Arrest (SCA)\nClear, calm guidance for those with no first aid experience and emergency professionals\nLid can be placed under the shoulders of the patient to help keep the airway open\nCan be used on children up to 8 using Pedi Padz II Electrodes\nCPR-D padz have a shelf life of five years.",
+    "price": "1030",
+    "stockQuantity": 12
+  },
+  {
+    "id": "1004",
+    "name": "Type 1 Disposable Surgical Face Masks",
+    "description": "Pack of 50 Type 1 face masks\n3-ply disposable surgical face mask\nSoft and comfortable fitting with ear loops and easy breathability\nConforms to EN 14683:2019\nBacterial filtration efficiency (BFE) >95%",
+    "price": "15",
+    "stockQuantity": 120
+  }
+]
